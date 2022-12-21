@@ -8,4 +8,6 @@ Example Report Page:
 
 <img width="465" alt="Screen Shot 2022-12-20 at 11 13 03 PM" src="https://user-images.githubusercontent.com/37996767/208843327-3f448403-e099-41ca-a86e-e77e2a3e0203.png">
 
+<img width="565" alt="Screen Shot 2022-12-21 at 2 13 51 PM" src="https://user-images.githubusercontent.com/37996767/209012707-5000cdc7-17bd-4d8f-9655-9f8e0c1c9316.png">
+
 Note: The regression models for sentiment score could be improved.
